@@ -1,0 +1,9 @@
+*.ncb
+*.sdf
+*.user
+*.ipch
+*.pdb
+*.obj
+ipch/
+debug/
+release/
